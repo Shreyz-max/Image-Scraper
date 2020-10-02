@@ -5,7 +5,7 @@ This project has been deployed in **Heroku**.
 
 To see the deployed website follow the link
 
-(https://imagescraper101.herokuapp.com/)
+https://imagescraper101.herokuapp.com/
 
 
 ## Overview of the deployemnt
